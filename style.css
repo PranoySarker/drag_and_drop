@@ -9,6 +9,7 @@ body {
     left: 5%;
     width: 140px;
     height: 140px;
+    cursor: pointer;
 }
 
 .blueBox {
@@ -17,4 +18,12 @@ body {
     width: 155px;
     height: 155px;
     margin: 10px;
+}
+
+.hold {
+    border: 2px solid white;
+}
+
+.hide {
+    display: none;
 }
